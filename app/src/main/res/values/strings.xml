@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Autumn\'s To Do List</string>
+    <string name="editTextBox">Enter something to do</string>
+    <string name="btnAddItem">Add</string>
+    <string name="hintTextOne">Add items to the list</string>
+    <string name="hintTextTwo">Delete them by holding on the row</string>
+</resources>
